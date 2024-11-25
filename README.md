@@ -1,5 +1,6 @@
 # Peluqueria Canina
 
+![Imagen del proyecto](https://github.com/Josephmbedoya/Portafolio/blob/main/PeluqueriaCanina1.png)
 
 ## Descripción 📑
 
@@ -11,6 +12,11 @@ He aprendido a hacer CRUDS en java en una aplicacion real, y utilizandoi el patr
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
+
+![Captura del proyecto](https://github.com/Josephmbedoya/Portafolio/blob/main/PeluqueriaCanina2.png)
+![Captura del proyecto](https://github.com/Josephmbedoya/Portafolio/blob/main/PeluqueriaCanina3.png)
+![Captura del proyecto](https://github.com/Josephmbedoya/Portafolio/blob/main/PeluqueriaCanina4.png)
+
 
 ## Autor ✒️
 **Joseph M Bedoya**
