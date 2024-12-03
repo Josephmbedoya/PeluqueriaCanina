@@ -17,10 +17,9 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://github.com/Josephmbedoya/Portafolio/blob/main/PeluqueriaCanina3.png)
 ![Captura del proyecto](https://github.com/Josephmbedoya/Portafolio/blob/main/PeluqueriaCanina4.png)
 
-<iframe width="315" height="560" 
-src="https://youtube.com/embed/GDo6tR2sfsA" title="YouTube video player"
- frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+  
+https://youtube.com/shorts/GDo6tR2sfsA?si=38d_oJGeQvjsXAbc
 
 ## Autor ✒️
 **Joseph M Bedoya**
